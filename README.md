@@ -15,3 +15,8 @@
 ## Data Description
 ### This dataset contains employee information including education level, joining year, city, payment tier, age, gender, bench status, prior experience, and whether the employee left the company or not.
 ---
+
+##Objectives
+ i. To analyze employee attributes 
+ ii. To understand the factors influencing employee attrition  
+ iii. To predict whether an employee is likely to leave the company based on demographics, experience, and job-related features.
