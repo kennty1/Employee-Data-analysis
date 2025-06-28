@@ -14,7 +14,7 @@
 + [Findings](#Findings)
 ## Data Description
 ### This dataset contains employee information including education level, joining year, city, payment tier, age, gender, bench status, prior experience, and whether the employee left the company or not.
-
+---
 
 ## Objectives
  + To analyze employee attributes 
