@@ -5,7 +5,7 @@
 ## Table of Contents
 + [Project Overview](#Project-Overview)
 + [Dataset Description](#Dataset-Description)
-+ [Objectives](#Objetives)
++ [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
 + [Analysis and Insight](#Analysisand-Insight)   
   1. [Excel Dashboard](#excel-dashboard)
