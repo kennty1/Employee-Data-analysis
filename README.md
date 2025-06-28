@@ -20,3 +20,8 @@
  + To analyze employee attributes 
  + To understand the factors influencing employee attrition  
  + To predict whether an employee is likely to leave the company based on demographics, experience, and job-related features.
+---
+## Tools Used
++ MICROSOFT EXCEL
++ POWER BI
++ SQL
