@@ -25,3 +25,4 @@
 + MICROSOFT EXCEL
 + POWER BI
 + SQL
+## Analysis and Insight 
