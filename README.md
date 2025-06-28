@@ -10,4 +10,5 @@
 + [Analysis and Insight](#Analysisand-Insight)   
 1. [Excel Dashboard](#excel-dashboard)
 2.[SQL Queries](#sql-queries)
-3.[PowerBi Dashboard](#PowerBi-Dashboard) 
+3.[PowerBi Dashboard](#PowerBi-Dashboard)
++ [Findings](#Findings)
