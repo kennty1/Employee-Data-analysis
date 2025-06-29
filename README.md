@@ -29,7 +29,9 @@
 # Analysis and Insight 
 ## Excel Dashboard
 #### https://ibb.co/pvsTBPvH
+
 ## SQL Queries
+#### https://ibb.co/CpWj0mjK
 
 ## Power Bi Dashboard
 #### https://ibb.co/QvszvFk3
