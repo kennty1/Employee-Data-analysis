@@ -29,13 +29,13 @@
 + SQL
   
 # Analysis and Insight 
-## Excel Dashboard
+## 1.Excel Dashboard
 #### https://ibb.co/pvsTBPvH
 
-## SQL Queries
+## 2.SQL Queries
 #### https://ibb.co/CpWj0mjK
 
-## Power Bi Dashboard
+## 3.Power Bi Dashboard
 #### https://ibb.co/QvszvFk3
 ---
 # Findings
