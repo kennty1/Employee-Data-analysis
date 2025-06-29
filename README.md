@@ -42,8 +42,7 @@
 ### 3. Payment Tier Distribution: Most employees are in PaymentTier 3, indicating a concentration in the highest pay level.
 ### 4. Age Range: Employees' ages range from early 20s to late 30s, with many in their 30s.
 ### 5. Gender Representation: The dataset includes both Male and Female employees, with a slight male majority.
-### 6. Bench Status: A large number of employees have never been benched (`EverBenched = No`), suggesting stable project assignments.
-### 7. Experience Levels: Experience varies widely, from 0 to 5 years prior to joining.
-### 8. Employee Attrition (LeaveOrNot): There are both leavers (`1`) and stayers (`0`), allowing for predictive modeling on attrition behavior.
+### 6. Experience Levels: Experience varies widely, from 0 to 5 years prior to joining.
+### 7. Employee Attrition (LeaveOrNot): There are both leavers (`1`) and stayers (`0`), allowing for predictive modeling on attrition behavior.
 
 
