@@ -4,7 +4,7 @@
 + [Dataset Description](#Dataset-Description)
 + [Objectives](#Objectives)
 + [Tools Used](#Tools-Used)
-+ [Analysis and Insight](#Analysisand-Insight)   
++ [Analysis and Insight](#Analysis-and-Insight)   
   1. [Excel Dashboard](#excel-dashboard)
 2.[SQL Queries](#sql-queries)
 3.[PowerBi Dashboard](#PowerBi-Dashboard)
