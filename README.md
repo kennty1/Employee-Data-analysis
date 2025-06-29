@@ -25,8 +25,11 @@
 + MICROSOFT EXCEL
 + POWER BI
 + SQL
-## Analysis and Insight 
+  ---
+# Analysis and Insight 
 ## Excel Dashboard
 #### https://ibb.co/pvsTBPvH
-# Power Bi Dashboard
+## SQL Queries
+
+## Power Bi Dashboard
 #### https://ibb.co/QvszvFk3
